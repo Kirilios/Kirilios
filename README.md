@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kirilios
-- These are my first java projects
+- These are my first projects
 - 📫 How to reach me kirilios17@mail.ru
 
 <!---
